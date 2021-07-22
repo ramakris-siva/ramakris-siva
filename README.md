@@ -8,4 +8,5 @@
 - 👯 I’m looking to collaborate on ML or DL use for object recognition and obstacle avoidance on DJI Tello or any other similar drone
 - 🤔 I’m looking for help with potential mods to DJI Tello for adding proximity sensors to the drone
 - 📫 How to reach me: ramakrdude@yahoo.com
+
 -->
